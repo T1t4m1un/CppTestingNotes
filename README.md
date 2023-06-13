@@ -1,5 +1,3 @@
-## README.md
-
 # CppTestingNotes
 
 Welcome to `CppTestingNotes`, a repository where I collect and organize my notes on mainstream C++ testing frameworks. These notes provide insight into writing testing paradigms and offer an extensive overview of the primary APIs of the testing frameworks that I have used.
